@@ -1,5 +1,4 @@
-var NOME = "Rodrigo Syan";
-var idade1 = "29";
-var idade2 = "30";
-Alert("Bem vindo " + NOME + ", " + idade1 + ", " + idade2)
-;
+var lista = ["maca", "pera", "uva"];
+lista.push = ("salada mista");
+console.log(lista);
+/*Alert("Bem vindo " + NOME + ", " + idade1 + ", " + idade2);*/
